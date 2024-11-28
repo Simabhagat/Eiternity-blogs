@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.sidebar{
+    display: flex;
+    flex-direction: column;
+}
